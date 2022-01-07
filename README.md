@@ -9,7 +9,4 @@ Data can be found at http://bit.ly/w-data To predict: The score if a student stu
 
 Solution: The given data consist of two variable i.e Hours and Scores.
 Hours here is independent variable while scores is a dependent variable.
-In this prediction we have used different libraries to implement the regression function. 
-
-
-http://localhost:8888/notebooks/Prediction%20using%20ML.ipynb#
+In this prediction we have used different libraries to implement the regression function.
